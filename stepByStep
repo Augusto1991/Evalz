@@ -1,0 +1,10 @@
+
+--------------------------------------------
+05-28-20: Initial Configuration 
+--------------------------------------------
+npm install -g expo-cli
+expo init EvalzFront
+cd EvalzFront
+npm start
+---------------error
+npm install -g expo-cli
